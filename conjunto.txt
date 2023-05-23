@@ -1,0 +1,5 @@
+String arquivo1 = "C:\\Users\\User\\Documents\\NetBeansProjects\\ContadorDePalavras\\src\\1.txt";
+String arquivo2 = "C:\\Users\\User\\Documents\\NetBeansProjects\\ContadorDePalavras\\src\\2.txt";
+String arquivo3 = "C:\\Users\\User\\Documents\\NetBeansProjects\\ContadorDePalavras\\src\\3.txt";
+String arquivoDesconsiderado = "C:\\Users\\User\\Documents\\NetBeansProjects\\ContadorDePalavras\\src\\desconsideradas.txt";
+String arquivoSaida = "C:\\Users\\User\\Documents\\NetBeansProjects\\ContadorDePalavras\\src\\resultado.txt";

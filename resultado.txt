@@ -1,0 +1,17 @@
+amor - 1
+casa - 6
+casar - 2
+comigo - 2
+engraçada - 1
+era - 1
+faca - 1
+favor - 1
+minha - 1
+mora - 2
+muito - 1
+nada - 1
+quem - 2
+quer - 4
+tambem - 1
+teto - 1
+tinha - 2
